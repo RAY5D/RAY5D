@@ -1,6 +1,7 @@
 Hi, I’m @RAY5D!
-I’m interested in hardware, MCU, and PCB. 
-I’m currently learning Computer Engineering. 
+
+I’m interested in hardware, MCU, and PCB. I’m currently learning Computer Engineering. 
+
 
 Email: RAY5DHao@outlook.com
 
